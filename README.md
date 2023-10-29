@@ -41,4 +41,4 @@ git clone https://github.com/your/repository.git
 
 ## Preview
 
-![]()
+![https://github.com/akhmetpekov/weatherApp/blob/main/preview/weatherAppDemo.gif]()
